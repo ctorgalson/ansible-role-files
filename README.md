@@ -18,6 +18,7 @@ This role simplifies the use of Ansible to create files, directories, and links.
     - `serole`
     - `seuser`
     - `unsafe_writes`
+
   The other File module parameters are used as when creating File tasks
   directly.
 
