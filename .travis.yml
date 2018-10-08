@@ -12,4 +12,3 @@ install:
 script:
   # Replace with `molecule --debug test` for debugging.
   - molecule test
-
