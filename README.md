@@ -1,6 +1,6 @@
 # Ansible Role Files
 
-[![Build Status](https://travis-ci.org/ctorgalson/ansible-role-files.svg?branch=master)](https://travis-ci.org/ctorgalson/ansible-role-files)
+[![Build Status](https://travis-ci.com/ctorgalson/ansible-role-files.svg?branch=master)](https://travis-ci.com/ctorgalson/ansible-role-files)
 
 This role simplifies the use of Ansible to create files, directories, and links.
 
