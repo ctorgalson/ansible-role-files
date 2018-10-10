@@ -75,4 +75,4 @@ passed in as parameters) is always nice for users too:
 
 ## License
 
-MIT
+GPLv3
